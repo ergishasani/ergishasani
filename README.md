@@ -50,7 +50,6 @@ You can customize the trophy's appearance using themes. Example:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-```
 
 Here are some available themes:
 
@@ -60,7 +59,7 @@ Here are some available themes:
 | `flat`      | ![flat](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat) |
 
 For more themes and options, visit [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy).
-```
+
 
 ---
 
