@@ -9,11 +9,11 @@ To replicate this on your GitHub profile, you can create a `README.md` file with
 
 <div align="center">
 
-[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
-[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/issues)
-[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE)
-[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)
+[![stargazers](https://img.shields.io/github/stars/ergishasani/github-profile-trophy)](https://github.com/ergishasani/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/ergishasani/github-profile-trophy)](https://github.com/ergishasani/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/ergishasani/github-profile-trophy)](https://github.com/ergishasani/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/ergishasani/github-profile-trophy)](https://github.com/ergishasani/github-profile-trophy/blob/master/LICENSE)
+[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fergishasani%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fergishasani%2Fgithub-profile-trophy)
 
 </div>
 
@@ -22,7 +22,7 @@ To replicate this on your GitHub profile, you can create a `README.md` file with
 </p>
 
 <div align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
+  <a href="https://github.com/sponsors/ergishasani">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
   </a>
 </div>
@@ -31,9 +31,9 @@ To replicate this on your GitHub profile, you can create a `README.md` file with
 
 ### Quick Start
 
-To add trophies to your README file, use the following code snippet. Replace `username` with your GitHub username.
+To add trophies to your README file, use the following code snippet. Replace ErgisHasani with your GitHub username.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username)](https://github.com/ergishasani/github-profile-trophy)
 
 
 ### Example Preview
@@ -49,7 +49,7 @@ To add trophies to your README file, use the following code snippet. Replace `us
 You can customize the trophy's appearance using themes. Example:
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ergishasani/github-profile-trophy)
 
 Here are some available themes:
 
@@ -58,7 +58,7 @@ Here are some available themes:
 | `onedark`   | ![onedark](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark) |
 | `flat`      | ![flat](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat) |
 
-For more themes and options, visit [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy).
+For more themes and options, visit [GitHub Profile Trophy](https://github.com/ergishasani/github-profile-trophy).
 
 
 ---
