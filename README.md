@@ -1,8 +1,6 @@
 To replicate this on your GitHub profile, you can create a `README.md` file with similar formatting to highlight a "GitHub Profile Trophy" section. Here's how your README file might look:
 
 ---
-
-```markdown
 <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
   <h2 align="center">GitHub Profile Trophy</h2>
@@ -37,7 +35,7 @@ To add trophies to your README file, use the following code snippet. Replace `us
 
 ```markdown
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username)](https://github.com/ryo-ma/github-profile-trophy)
-```
+
 
 ### Example Preview
 
