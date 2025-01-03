@@ -1,75 +1,70 @@
-# Hi there, I'm Ergis Hasani! 👋
+To replicate this on your GitHub profile, you can create a `README.md` file with similar formatting to highlight a "GitHub Profile Trophy" section. Here's how your README file might look:
 
-I'm a passionate Web Developer and UI/UX Designer from Tirana, Albania. I specialize in creating user-friendly and responsive web interfaces that provide seamless user experiences.
+---
 
-- 🌐 **Portfolio:** [portfolio-ergis.netlify.app](https://portfolio-ergis.netlify.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/ergis-hasani](https://www.linkedin.com/in/ergis-hasani/)
-- 📧 **Email:** ergis.hasani@example.com
+```markdown
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
+</div>
 
-## About Me
+<div align="center">
 
-I'm currently pursuing a Bachelor's degree in Computer Science at Polis University, focusing on programming, design, and troubleshooting. With a strong foundation in HTML, CSS, JavaScript, and responsive design, I have experience in both freelance projects and professional roles, including my current position at VisionBau.de.
+[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE)
+[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)
 
-## Skills
+</div>
 
-- **Web Development:** HTML, CSS3, JavaScript
-- **Design:** UI/UX Design, Responsive Web Design, Mobile-First Design
-- **Tools:** CSS Grid, Flexbox, AutoCAD
-- **Other:** Computer & OS Troubleshooting
+<p align="center">
+  Add dynamically generated GitHub Stat Trophies to your profile for free. Consider supporting the project if you find it useful ❤️
+</p>
 
-## Experience
+<div align="center">
+  <a href="https://github.com/sponsors/ryo-ma">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
+  </a>
+</div>
 
-- **Freelance Web Developer & UI/UX Designer**  
-  *2021 - Present*  
-  Crafting intuitive and user-centric digital experiences by combining design and development expertise. Collaborated with clients to deliver visually appealing and functional websites tailored to their needs.
+---
 
-- **Programmer at VisionBau.de**  
-  *2022 - Present*  
-  Developing and maintaining responsive interfaces, focusing on enhancing user experience and implementing efficient solutions.
+### Quick Start
 
-## Education
+To add trophies to your README file, use the following code snippet. Replace `username` with your GitHub username.
 
-- **Bachelor's Degree in Computer Science**  
-  *Polis University, 2022 - Present*  
-  Currently in my 3rd year, expanding expertise in various technologies.
+```markdown
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username)](https://github.com/ryo-ma/github-profile-trophy)
+```
 
-- **High School Diploma in Electrical and Electronics Engineering**  
-  *Harry Fultz Professional School, 2018 - 2022*  
-  Specialized in AutoCAD, Electronics, and Electrical Systems. Graduated with a grade of 8.45.
+### Example Preview
 
-## Projects
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
-Here are some of the projects I've worked on:
+---
 
-- **Funeral "BUDA" Website**  
-  A modern website designed to provide professional funeral services with compassion and care. *(In Progress)*  
-  [funeralbuda.site](https://funeralbuda.site)
+### Themes
 
-- **VisionBau Website**  
-  A sleek and functional website developed for VisionBau to showcase their construction and engineering services.  
-  [visionbau.info](https://visionbau.info)
+You can customize the trophy's appearance using themes. Example:
 
-- **Julia Child Tribute Website**  
-  A tribute website dedicated to Julia Child, showcasing her recipes, accomplishments, and legacy.  
-  [julia-child.netlify.app](https://julia-child.netlify.app)
+```markdown
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+```
 
-- **Classification Web-App Project**  
-  A web application created for a school project in the AI subject.  
-  [classification-web-app.netlify.app](https://classification-web-app.netlify.app)
+Here are some available themes:
 
-## Testimonials
+| **Theme**   | **Preview** |
+|-------------|-------------|
+| `onedark`   | ![onedark](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark) |
+| `flat`      | ![flat](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat) |
 
-- **Henry Arthur**, Head of Engineering at Loom  
-  "Creative, innovative, and strategic. We have great achievements made together and looking forward to more." ★★★★★
+For more themes and options, visit [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy).
+```
 
-- **Rivaldo Dini**, Owner of VisionBau  
-  "Incredible group of people and talented professionals. Focused on the development of flexible ideas." ★★★★★
+---
 
-- **Eleanor Pena**, Head of Product Design at Abstract  
-  "A truly innovative approach to gameplay that sets this agency apart from its peers within the broader industry." ★★★★★
-
-## Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through any of the platforms above.
-
-Looking forward to collaborating with you! 😊
+Customize the above template to fit your profile. After completing your `README.md`, push it to your GitHub profile repository to display it on your profile page.
