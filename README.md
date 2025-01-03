@@ -33,7 +33,6 @@ To replicate this on your GitHub profile, you can create a `README.md` file with
 
 To add trophies to your README file, use the following code snippet. Replace `username` with your GitHub username.
 
-```markdown
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -49,7 +48,7 @@ To add trophies to your README file, use the following code snippet. Replace `us
 
 You can customize the trophy's appearance using themes. Example:
 
-```markdown
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ```
 
