@@ -33,7 +33,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ergishasani&show_icons=true&theme=radical" alt="Ergi's GitHub stats" width="90%" height="500px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ergishasani&show_icons=true&theme=radical" alt="Ergi's GitHub stats" width="90%" />
 </p>
 
 ---
