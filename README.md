@@ -1,68 +1,89 @@
+<!--header-->
+<table>
+  <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
+  <tr><th colspan="2"><h3>📅 Isometric commit calendar</h3></th></tr>
+  <tr><td colspan="2" align="center"><p>This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.</p>
+</td></tr>
+  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://github.com">GitHub</a>.
+All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
+</td></tr>
+  <tr>
+    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
+    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a> <a href="/source/templates/terminal/README.md"><code>📙 Terminal template</code></a></td>
+  </tr>
+  <tr>
+    <td><code>👤 Users</code></td>
+  </tr>
+  <tr>
+    <td><code>🔑 (scopeless)</code> <code>read:org (optional)</code> <code>read:user (optional)</code> <code>read:packages (optional)</code> <code>repo (optional)</code></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+      <details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+</table>
+<!--/header-->
 
+## ➡️ Available options
 
-To replicate this on your GitHub profile, you can create a `README.md` file with similar formatting to highlight a "GitHub Profile Trophy" section. Here's how your README file might look:
+<!--options-->
+<table>
+  <tr>
+    <td align="center" nowrap="nowrap">Option</i></td><td align="center" nowrap="nowrap">Description</td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_isocalendar</code></h4></td>
+    <td rowspan="2"><p>Enable isocalendar plugin</p>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>boolean</code>
+<br>
+<b>default:</b> no<br></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_isocalendar_duration</code></h4></td>
+    <td rowspan="2"><p>Time range</p>
+<ul>
+<li><code>half-year</code>: 180 days</li>
+<li><code>full-year</code>: 1 year</li>
+</ul>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>string</code>
+<br>
+<b>default:</b> half-year<br>
+<b>allowed values:</b><ul><li>half-year</li><li>full-year</li></ul></td>
+  </tr>
+</table>
+<!--/options-->
 
----
-<div align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-  <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
-</div>
+## ℹ️ Examples workflows
 
-<div align="center">
+<!--examples-->
+```yaml
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
 
-[![stargazers](https://img.shields.io/github/stars/ergishasani/github-profile-trophy)](https://github.com/ergishasani/github-profile-trophy/stargazers)
-[![forks](https://img.shields.io/github/forks/ergishasani/github-profile-trophy)](https://github.com/ergishasani/github-profile-trophy/network/members)
-[![issues](https://img.shields.io/github/issues/ergishasani/github-profile-trophy)](https://github.com/ergishasani/github-profile-trophy/issues)
-[![license](https://img.shields.io/github/license/ergishasani/github-profile-trophy)](https://github.com/ergishasani/github-profile-trophy/blob/master/LICENSE)
-[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fergishasani%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fergishasani%2Fgithub-profile-trophy)
+```
+```yaml
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
 
-</div>
-
-<p align="center">
-  Add dynamically generated GitHub Stat Trophies to your profile for free. Consider supporting the project if you find it useful ❤️
-</p>
-
-<div align="center">
-  <a href="https://github.com/sponsors/ergishasani">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
-  </a>
-</div>
-
----
-
-### Quick Start
-
-To add trophies to your README file, use the following code snippet. Replace ErgisHasani with your GitHub username.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username)](https://github.com/ergishasani/github-profile-trophy)
-
-
-### Example Preview
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
----
-
-### Themes
-
-You can customize the trophy's appearance using themes. Example:
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ergishasani/github-profile-trophy)
-
-Here are some available themes:
-
-| **Theme**   | **Preview** |
-|-------------|-------------|
-| `onedark`   | ![onedark](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark) |
-| `flat`      | ![flat](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat) |
-
-For more themes and options, visit [GitHub Profile Trophy](https://github.com/ergishasani/github-profile-trophy).
-
-
----
-
-Customize the above template to fit your profile. After completing your `README.md`, push it to your GitHub profile repository to display it on your profile page.
+```
+<!--/examples-->
