@@ -91,13 +91,13 @@ Public GitHub snapshot · **2026-10-20 (UTC)**
 
 ### Recently pushed public projects
 
-| Repository                                                                      | GitHub description                                                                                                     | Main language | Last push (UTC) |
-| :------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------- | :------------ | :-------------- |
-| [freshclone](https://github.com/ergishasani/freshclone)                         | Test your README setup instructions in a clean environment. Catch broken onboarding before your next contributor does. | TypeScript    | 2026-10-20      |
-| [gymos-desktop-releases](https://github.com/ergishasani/gymos-desktop-releases) | GymOS Desktop installers and update manifest                                                                           | —             | 2026-10-16      |
-| [MyVision](https://github.com/ergishasani/MyVision)                             | No repository description provided.                                                                                    | TypeScript    | 2026-08-31      |
-| [TeamSystem](https://github.com/ergishasani/TeamSystem)                         | No repository description provided.                                                                                    | HTML          | 2026-06-21      |
-| [GymOs-Backend](https://github.com/ergishasani/GymOs-Backend)                   | No repository description provided.                                                                                    | Java          | 2026-05-12      |
+| Repository | GitHub description | Main language | Last push (UTC) |
+| :--- | :--- | :--- | :--- |
+| [freshclone](https://github.com/ergishasani/freshclone) | Test your README setup instructions in a clean environment. Catch broken onboarding before your next contributor does. | TypeScript | 2026-10-20 |
+| [gymos-desktop-releases](https://github.com/ergishasani/gymos-desktop-releases) | GymOS Desktop installers and update manifest | — | 2026-10-16 |
+| [MyVision](https://github.com/ergishasani/MyVision) | No repository description provided. | TypeScript | 2026-08-31 |
+| [TeamSystem](https://github.com/ergishasani/TeamSystem) | No repository description provided. | HTML | 2026-06-21 |
+| [GymOs-Backend](https://github.com/ergishasani/GymOs-Backend) | No repository description provided. | Java | 2026-05-12 |
 
 Source: [GitHub profile API](https://api.github.com/users/ergishasani) and [public repository API](https://api.github.com/users/ergishasani/repos?sort=pushed&per_page=100). Forks, archived repositories, and this profile repository are excluded from the table. Push dates describe repository activity, not individual contribution counts.
 
