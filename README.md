@@ -85,19 +85,19 @@ Descriptions are based on the linked project documentation; card push dates refr
 <details>
 <summary>View source data and recent repositories</summary>
 
-Public GitHub snapshot · **2026-10-25 (UTC)**
+Public GitHub snapshot · **2026-10-26 (UTC)**
 
-**57 public repositories** · **29 followers** · **57 following**
+**57 public repositories** · **30 followers** · **57 following**
 
 ### Recently pushed public projects
 
 | Repository | GitHub description | Main language | Last push (UTC) |
 | :--- | :--- | :--- | :--- |
+| [Portfolio\_Beta](https://github.com/ergishasani/Portfolio_Beta) | No repository description provided. | JavaScript | 2026-10-25 |
 | [freshclone](https://github.com/ergishasani/freshclone) | Test your README setup instructions in a clean environment. Catch broken onboarding before your next contributor does. | TypeScript | 2026-10-20 |
 | [gymos-desktop-releases](https://github.com/ergishasani/gymos-desktop-releases) | GymOS Desktop installers and update manifest | — | 2026-10-16 |
 | [MyVision](https://github.com/ergishasani/MyVision) | No repository description provided. | TypeScript | 2026-08-31 |
 | [TeamSystem](https://github.com/ergishasani/TeamSystem) | No repository description provided. | HTML | 2026-06-21 |
-| [GymOs-Backend](https://github.com/ergishasani/GymOs-Backend) | No repository description provided. | Java | 2026-05-12 |
 
 Source: [GitHub profile API](https://api.github.com/users/ergishasani) and [public repository API](https://api.github.com/users/ergishasani/repos?sort=pushed&per_page=100). Forks, archived repositories, and this profile repository are excluded from the table. Push dates describe repository activity, not individual contribution counts.
 
