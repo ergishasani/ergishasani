@@ -85,9 +85,9 @@ Descriptions are based on the linked project documentation; card push dates refr
 <details>
 <summary>View source data and recent repositories</summary>
 
-Public GitHub snapshot · **2026-11-05 (UTC)**
+Public GitHub snapshot · **2026-11-06 (UTC)**
 
-**57 public repositories** · **30 followers** · **57 following**
+**59 public repositories** · **30 followers** · **57 following**
 
 ### Recently pushed public projects
 
